@@ -1,13 +1,13 @@
-# OmniFood-Project-
-<h2>OmniFood Layout With HTML and CSS</h2>
+# Responsive Food Delivery Website Project
+<h2> Responsive Food Delivery Website Layout With HTML and CSS</h2>
 
 ///////////////////////////////////////
 
-OmniFood partner with restaurants and other cooking partners to actually cook and deliver all meals from the generated meal plans, in selected cities. All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
+OmniFood partners with restaurants and other cooking partners to cook and cater all meals from the generated meal plans, in selected cities. All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
 
-This Layout Created In Udemy Course.
+This is a layout and learning-based project from Udemy sessions.
 
-HTML / CSS and Responsive Design.
+Technologies Used: HTML, CSS 
 
 ///////////////////////////////////////
 
